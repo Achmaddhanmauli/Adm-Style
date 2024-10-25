@@ -655,7 +655,7 @@ margin: 0 15px 20px 15px;
 }
 
 .dark_white_bg {
-     background: #10531d;
+     background: hwb(127 89% 7%);
      height: 257px;
      display: flex;
      flex-wrap: wrap;
@@ -664,7 +664,7 @@ margin: 0 15px 20px 15px;
 }
 
 .project .project_box h3 {
-     color: #35d316;
+     color: hsl(108, 22%, 95%);
      font-size: 20px;
      line-height: 20px;
      padding: 22px 0px 0px 0px;
