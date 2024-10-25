@@ -664,11 +664,11 @@ margin: 0 15px 20px 15px;
 }
 
 .project .project_box h3 {
-     color: hsl(108, 22%, 95%);
-     font-size: 20px;
-     line-height: 20px;
+     color: #183661(54, 80%, 50%);
+     font-size: 30px;
+     line-height: 30px;
      padding: 22px 0px 0px 0px;
-     text-align: left;
+     text-align: center;
 }
 
 .project .read_more {
